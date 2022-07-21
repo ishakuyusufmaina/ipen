@@ -1,0 +1,22 @@
+header{
+  margin: .5px;
+}
+.poem {
+  border: 0.5px gray solid;
+  align-content: center;
+  color: white;
+  padding-left: 10px; 
+  line-height: 1.8;
+  background-color: #2f3c45;
+  color: #f4f1de;
+  font-family: 'Roboto Slab', serif;
+}
+.poem h2{
+  text-align: center;
+}
+
+.logo {
+  border: 3px silver solid;
+  border-radius: 50%;
+  padding: 5px;
+}

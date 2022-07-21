@@ -1,0 +1,28 @@
+body {
+  background-color: cadetblue; 
+}
+
+.excerpt {
+  border: 1px white solid;
+  margin: 5px;
+  padding: 5px;
+  line-height: 1.8;
+  color: white;
+}
+
+.logo {
+  border: 3px silver solid;
+  border-radius: 50%;
+  padding: 5px;
+}
+
+
+
+header{
+  margin: 5px;
+  border: 1px white solid;
+}
+
+h1, h2 {
+  text-align: center;
+}
